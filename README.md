@@ -1,13 +1,7 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<strong>Projeto Delivery app !</strong>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Um app voltado para solucionar um problema de uma distribuidora de bebidas que aumentou significadamente sua demanda devido ao bom atendimento e ao preço. Então, visando aumentas suas receitas, a Distribuidora aumentou seus pontos de venda e consequentemente o número de vendedores, deixando cada vendedor responsavel por um ponto.
+ O app possui uma tela de login com as "Roles" Cliente, Vendedor, e Adm, uma tela de acompanhamento de pedido, para facilitar a comunicação entre o Vendedor e o Cliente.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+ As ferramentas utilizadas foram React para o Front e Node com express e sequelize para o Back.
+ MySql é o banco de dados.
